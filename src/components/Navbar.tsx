@@ -14,7 +14,7 @@ export const Navbar: React.FC = () => {
           <div className="flex items-center">
             <Link to="/" className="flex items-center">
               <AlertCircle className="h-8 w-8 mr-2" />
-              <span className="font-bold text-xl">EmergencyResponse</span>
+              <span className="font-bold text-xl">Crisis Call</span>
             </Link>
           </div>
           
